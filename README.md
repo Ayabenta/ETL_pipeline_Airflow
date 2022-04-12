@@ -1,2 +1,2 @@
 # ETL_pipeline_Airflow
-Building ETL pipelines with Apache Airflow, Extracting data from amazon web sites, preprocessing/ cleaning data and transforming it to be suitable for loeading in MySql and HDFS 
+Building ETL pipelines with Apache Airflow, web scraping data from amazon web site , preprocessing/cleaning data and transforming it to be suitable for loeading it into MySql and HDFS 
